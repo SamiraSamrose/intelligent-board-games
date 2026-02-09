@@ -13,7 +13,7 @@ This system implements board game AI using research from "Societies of Thought" 
 
     [Notebook containing extended research for Mask or to Mirror Paper](https://github.com/SamiraSamrose/intelligent-board-games/blob/main/notebooks%20complement%20the%20research%20papers/To%20Mask%20or%20to%20Mirror-%20Human-AI%20Alignment%20in%20Collective%20Reasoning/Comprehensive_Reviews_and_Supplementary_Research_on_%22To_Mask_or_to_Mirror_Human_AI_Alignment_in_Collective_Reasoning%22_Research_Paper.ipynb)
 - **Research Papaer 1**:"Reasoning Models Generate Societies of Thought" (2025) by Junsol Kim, Shiyang Lai, Nino Scherrer, Blaise Agüera y Arcas, James Evans Research Paper [Read the paper](https://arxiv.org/abs/2601.10825)
-- **Research Paper 2**: "To Mask or to Mirror: Human-AI Alignment in Collective Reasoning" (2025) Research Paper [Read the paper](https://deepmind.google/research/publications/180362/)
+- **Research Paper 2**: "To Mask or to Mirror: Human-AI Alignment in Collective Reasoning" (2025) by Crystal Qian, Aaron Parisi, Clémentine Bouleau, Vivian Tsai, Maël Lebreton, Lucas Dixon Research Paper [Read the paper](https://deepmind.google/research/publications/180362/)
 
 ## Features
 
