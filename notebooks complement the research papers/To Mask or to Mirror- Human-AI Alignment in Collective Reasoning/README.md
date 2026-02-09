@@ -1,4 +1,4 @@
-# "To Mask or to Mirror: Human-AI Alignment in Collective Reasoning"  Research Paper [Read The Research Paper](https://deepmind.google/research/publications/180362/)
+# "To Mask or to Mirror: Human-AI Alignment in Collective Reasoning"  Research Paper [Read The Paper](https://deepmind.google/research/publications/180362/)
 
 LLMs are being deployed in group decision systems — hiring, project leadership, resource allocation. This project provides the statistical infrastructure to determine whether those systems replicate, suppress, or amplify human bias and under what conditions that behavior changes. It is the audit layer that should run before any such system ships.
 
