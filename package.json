@@ -1,0 +1,19 @@
+{
+  "name": "intelligent-board-games",
+  "version": "1.0.0",
+  "description": "AI-powered board games using Gemini and research-based reasoning",
+  "scripts": {
+    "start": "python backend/app.py",
+    "frontend": "cd frontend && python -m http.server 8000",
+    "test": "python test_integration.py"
+  },
+  "keywords": [
+    "board-games",
+    "ai",
+    "gemini",
+    "society-of-thought",
+    "game-ai"
+  ],
+  "author": "",
+  "license": "MIT"
+}
