@@ -303,7 +303,7 @@ This is a research implementation demonstrating AI techniques from academic pape
 
 Research Papers:
 - "Reasoning Models Generate Societies of Thought" (2025) [Read](https://arxiv.org/abs/2601.10825)
-- "To Mask or to Mirror: Human-AI Alignment in Collective Reasoning" (2025) Read](https://deepmind.google/research/publications/180362/)
+- "To Mask or to Mirror: Human-AI Alignment in Collective Reasoning" (2025) [Read](https://deepmind.google/research/publications/180362/)
 
 
 Technologies:
