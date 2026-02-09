@@ -1,6 +1,6 @@
 # Intelligent Board Games (Brass Birmingham, Gloomhaven, Terraforming Mars, Dune, Dungeons & Dragons, Exploding Kittens) with AI Opponents
 
-Advanced board game platform powered by Google Gemini AI with Genie3 VR integration, implementing research from "Societies of Thought" and "To Mask or to Mirror" research papers.
+Advanced board game platform powered by Google Gemini AI with Genie3 VR integration, implementing research from Google and Google DeepMind's primary research works.
 
 This system implements board game AI using research from "Societies of Thought" and "To Mask or to Mirror" papers authored by researchers at Google and Google DeepMind. The backend executes six complete board games (Brass Birmingham, Gloomhaven, Terraforming Mars, Dune, Dungeons & Dragons, Exploding Kittens) with turn-based state management. AI opponents use Society of Thought reasoning where multiple cognitive perspectives with distinct personalities debate actions internally before deciding. Each perspective represents different expertise and personality traits based on Big Five model extraction from character lore text.
 
