@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Intelligent Board Games - AI Powered</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <div id="app">
+        <header class="game-header">
+            <h1>Intelligent Board Games</h1>
+            <div class="header-controls">
+                <select id="game-selector" class="game-select">
+                    <option value="">Select a Game</option>
+                    <option value="brass_birmingham">Brass: Birmingham</option>
+                    <option value="gloomhaven">Gloomhaven</option>
+                    <option value="terraforming_mars">Terraforming Mars</option>
+                    <option value="dune">Dune</option>
+                    <option value="dungeons_dragons">Dungeons & Dragons</option>
+                    <option value="exploding_kittens">Exploding Kittens</option>
+                </select>
+                <label class="vr-toggle">
+                    <input type="checkbox" id="enable-vr">
+                    Enable VR (Genie3)
+                </label>
+                <button id="new-game-btn" class="btn-primary">New Game</button>
+            </div>
+        </header>
+
+        <div id="game-setup" class="game-setup hidden">
+            <h2>Game Setup</h2>
+            <div id="player-config" class="player-config">
+            </div>
+            <button id="start-game-btn" class="btn-success">Start Game</button>
+        </div>
+
+        <div id="game-container" class="game-container hidden">
+            <div class="game-sidebar">
+                <div id="game-info" class="game-info">
+                    <h3>Game Information</h3>
+                    <div id="turn-info" class="turn-info"></div>
+                    <div id="phase-info" class="phase-info"></div>
+                    <div id="vr-status" class="vr-status hidden">
+                        <strong>VR Mode:</strong> <span id="vr-status-text">Active</span>
+                    </div>
+                </div>
+
+                <div id="player-list" class="player-list">
+                    <h3>Players</h3>
+                    <div id="players-container"></div>
+                </div>
+
+                <div id="action-panel" class="action-panel">
+                    <h3>Available Actions</h3>
+                    <div id="actions-container"></div>
+                </div>
+
+                <div id="ai-reasoning" class="ai-reasoning">
+                    <h3>AI Reasoning</h3>
+                    <div id="reasoning-content"></div>
+                </div>
+            </div>
+
+            <div class="game-board-container">
+                <canvas id="game-board" width="1200" height="800"></canvas>
+                <div id="board-overlay" class="board-overlay"></div>
+            </div>
+
+            <div id="game-log" class="game-log">
+                <h3>Game Log</h3>
+                <div id="log-content"></div>
+            </div>
+        </div>
+
+        <div id="modal" class="modal hidden">
+            <div class="modal-content">
+                <span class="modal-close">&times;</span>
+                <div id="modal-body"></div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.socket.io/4.5.4/socket.io.min.js"></script>
+    <script src="js/utils.js"></script>
+    <script src="js/animations.js"></script>
+    <script src="js/websocket_client.js"></script>
+    <script src="js/vr_controller.js"></script>
+    <script src="js/board_controller.js"></script>
+    <script src="js/game_renderer.js"></script>
+    <script src="js/main.js"></script>
+</body>
+</html>
