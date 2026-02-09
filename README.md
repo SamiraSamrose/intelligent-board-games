@@ -9,9 +9,9 @@ This system implements board game AI using research from "Societies of Thought" 
 - **Video Demo**: https://youtu.be/UEFOnoHkMtE
 - **Notebooks Complementing The Research Papers**:
 
-[Notebook containing extended research for Societies of Thought Paper](https://github.com/SamiraSamrose/intelligent-board-games/blob/main/notebooks%20complement%20the%20research%20papers/Reasoning%20Models%20Generate%20Societies%20of%20Thought/Comprehensive%20Reviews%20and%20Supplementary%20Research%20on%20%22Reasoning%20Models%20Generate%20Societies%20of%20Thought%22%20%20Research%20Paper.ipynb)
+    [Notebook containing extended research for Societies of Thought Paper](https://github.com/SamiraSamrose/intelligent-board-games/blob/main/notebooks%20complement%20the%20research%20papers/Reasoning%20Models%20Generate%20Societies%20of%20Thought/Comprehensive%20Reviews%20and%20Supplementary%20Research%20on%20%22Reasoning%20Models%20Generate%20Societies%20of%20Thought%22%20%20Research%20Paper.ipynb)
 
-[Notebook containing extended research for Mask or to Mirror Paper](https://github.com/SamiraSamrose/intelligent-board-games/blob/main/notebooks%20complement%20the%20research%20papers/To%20Mask%20or%20to%20Mirror-%20Human-AI%20Alignment%20in%20Collective%20Reasoning/Comprehensive_Reviews_and_Supplementary_Research_on_%22To_Mask_or_to_Mirror_Human_AI_Alignment_in_Collective_Reasoning%22_Research_Paper.ipynb)
+    [Notebook containing extended research for Mask or to Mirror Paper](https://github.com/SamiraSamrose/intelligent-board-games/blob/main/notebooks%20complement%20the%20research%20papers/To%20Mask%20or%20to%20Mirror-%20Human-AI%20Alignment%20in%20Collective%20Reasoning/Comprehensive_Reviews_and_Supplementary_Research_on_%22To_Mask_or_to_Mirror_Human_AI_Alignment_in_Collective_Reasoning%22_Research_Paper.ipynb)
 - **Research Papaer 1**:"Reasoning Models Generate Societies of Thought" (2025) Research Paper [Read the paper](https://arxiv.org/abs/2601.10825)
 - **Research Paper 2**: "To Mask or to Mirror: Human-AI Alignment in Collective Reasoning" Research Paper (2025) [Read the paper](https://deepmind.google/research/publications/180362/)
 
