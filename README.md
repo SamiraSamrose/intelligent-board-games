@@ -297,7 +297,7 @@ python test_integration.py
 
 ## Contributing
 
-This is a research implementation demonstrating AI techniques from academic papers.
+This is a research implementation demonstrating AI techniques from published papers.
 
 ## Credits
 
