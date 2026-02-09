@@ -1,10 +1,10 @@
 # Reasoning Models Generate Societies of Thought  Research Paper [Read The Papaer](https://arxiv.org/abs/2601.10825)
 
-Transform AI reasoning from isolated model outputs into collaborative intelligence systems that mirror human team dynamics, delivering superior solutions through controlled perspective diversity. Deploy specialized AI societies that adapt in real-time to problem complexity, catching errors through adversarial challenge while maintaining computational efficiency through dynamic reconfiguration.
-
 The original "Societies of Thought" paper demonstrated that reasoning models implicitly simulate multi-agent interactions to improve problem-solving. This finding suggested that explicitly engineering society structures—rather than relying on emergent patterns—could yield superior performance across diverse task categories requiring different forms of cognitive diversity.
 
 The system orchestrates multiple LLM architectures into collaborative reasoning societies where specialized personas engage in structured dialogue, dynamically adapts society composition based on problem complexity and reasoning progress and evaluates how architectural diversity, hierarchical organization and cross-domain transfer affect solution quality across mathematical, scientific and strategic reasoning tasks.
+
+Transform AI reasoning from isolated model outputs into collaborative intelligence systems that mirror human team dynamics, delivering superior solutions through controlled perspective diversity. Deploy specialized AI societies that adapt in real-time to problem complexity, catching errors through adversarial challenge while maintaining computational efficiency through dynamic reconfiguration.
 
 Implementation combines PyTorch for neural model integration, NetworkX for hierarchical society graph structures and scikit-learn for statistical analysis of reasoning patterns. API clients interface with Gemini 3, GPT-4.1, Claude Sonnet 4.5 and Qwen models to execute distributed reasoning sessions. Sparse autoencoders trained on SlimPajama corpus enable mechanistic analysis of personality and expertise feature activations during reasoning. Performance evaluation uses BigBench Hard, GPQA, MATH Hard, MMLU-Pro, MUSR, IFEval, Intelligence Squared Debates, PolitiFact and Countdown datasets stored in pandas DataFrames.
 
