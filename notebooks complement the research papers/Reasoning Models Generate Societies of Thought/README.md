@@ -1,5 +1,4 @@
-# "Reasoning Models Generate Societies of Thought"  Research Paper
-[Read](https://arxiv.org/abs/2601.10825)
+# Reasoning Models Generate Societies of Thought  Research Paper [Read The Papaer](https://arxiv.org/abs/2601.10825)
 
 Transform AI reasoning from isolated model outputs into collaborative intelligence systems that mirror human team dynamics, delivering superior solutions through controlled perspective diversity. Deploy specialized AI societies that adapt in real-time to problem complexity, catching errors through adversarial challenge while maintaining computational efficiency through dynamic reconfiguration.
 
